@@ -106,6 +106,8 @@ int main()
     else{
         cout<<"\n\nGame is draw!!\n\n";
     }
+    return 0;
+}
 
 
 
