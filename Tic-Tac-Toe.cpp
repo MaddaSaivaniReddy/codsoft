@@ -90,7 +90,7 @@ return false;//check if game is already draw
 }
 int main()
 {
-    cout<<"\t\t\tT I C K --T A C--T O E--G A M E\t\t\t";
+    cout<<"\t\t\tT I C --T A C--T O E--G A M E\t\t\t";
     cout<<"\n\t\t\tTHERE ARE 2 PLAYERS\n\t\t\t";
     while(gamecomplete()){
         show_board();
